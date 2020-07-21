@@ -1,0 +1,23 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-button{
+    color: white;
+    background-color: black;
+}
+.see-all{
+    color: orange;
+    
+}
+.smartpahone-heading{
+    padding-bottom: 20px;
+}
+.card-footer{
+    text-align: center;
+    background-color: white;
+    border-top:none;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgrey ;
+    border-radius: 10px;
+}
